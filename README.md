@@ -1,8 +1,8 @@
 Hi, I’m Isabelle Nguyen (@inguyent).
-I’m interested in learning more about the applications of chemical engineering in biotechnology and aeronautics.
+I am a fourth year undergraduate at the University of California, San Diego.
+I am obtaining a degree in Chemical Engineering with a specialization in Process Controls and Dynamics.
 My goal over the next year is to learn more about the various applications of chemical engineering to find more interests and potential long-term career pathways. 
-I’m currently learning how to code in Python and attending summer classes to broaden my knowledge of controls.
-I’m looking to collaborate on any projects that pertain to aeronautics, biotechnology, or robotics.
+Currently, my main interest has been in controls and how they can be used to automate reactors and maintain system conditions.
 I can be reached via the following email: i.nguyent7@gmail.com
 
 <!---
